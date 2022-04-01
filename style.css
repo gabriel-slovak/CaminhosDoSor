@@ -197,3 +197,13 @@ ul{
   position: absolute;
   right: 50%;
 }
+#UserPerfil{
+  
+  border-radius: 100%;
+  
+}
+
+.Perfil{
+ position: absolute;
+ text-align: center;
+}
