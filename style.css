@@ -52,7 +52,7 @@ input {
 #boxEntrar {
   position: absolute;
   width: 30%;
-  height: 47%;
+  height: 50%;
   right: 10%;
   top: 35%;
   padding: 2%;
@@ -65,7 +65,7 @@ input {
 #boxCadastro {
   position: absolute;
   width: 30%;
-  height: 55%;
+  height: 60%;
   left: 10%;
   top: 35%;
   padding: 2%;
@@ -197,4 +197,3 @@ ul{
   position: absolute;
   right: 50%;
 }
-
